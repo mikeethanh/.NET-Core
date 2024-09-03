@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\E\\theFiveSemester\\buoi1\\buoi1\\buoi1.csproj",
+      "projectUniqueName": "D:\\E\\theFiveSemester\\dotnetcore\\buoi1\\buoi1\\buoi1.csproj",
       "projectName": "buoi1",
-      "projectPath": "D:\\E\\theFiveSemester\\buoi1\\buoi1\\buoi1.csproj",
+      "projectPath": "D:\\E\\theFiveSemester\\dotnetcore\\buoi1\\buoi1\\buoi1.csproj",
       "packagesPath": "C:\\Users\\maith\\.nuget\\packages\\",
-      "outputPath": "D:\\E\\theFiveSemester\\buoi1\\buoi1\\obj\\",
+      "outputPath": "D:\\E\\theFiveSemester\\dotnetcore\\buoi1\\buoi1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
